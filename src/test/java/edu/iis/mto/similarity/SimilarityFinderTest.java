@@ -1,5 +1,6 @@
 package edu.iis.mto.similarity;
 
+import edu.iis.mto.search.SearchMock;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
